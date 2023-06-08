@@ -1,3 +1,9 @@
 {
-  "hello": "world"
+  "hello": "world",
+  "abtest": {
+    "OPEN_GOOGLE_AD": {
+      "option": "A",
+      "from": "2023-06-09 00:00:00 +9"
+    }
+  }
 }
