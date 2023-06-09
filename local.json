@@ -2,7 +2,7 @@
   "hello": "world",
   "abtest": {
     "OPEN_GOOGLE_AD": {
-      "abOption": "A",
+      "abOption": "B",
       "from": {
         "year": 2023,
         "month": 6,
