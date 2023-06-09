@@ -6,7 +6,7 @@
         "latest": "0.0.1",
         "optional": "0.0.1",
         "force": "0.0.1",
-        "url": "https://test.android.store.com"
+        "url": "https://play.google.com/store/apps/details?id=com.teamcheers.app"
       },
       "ios": {
         "inReview": "0.0.1",
