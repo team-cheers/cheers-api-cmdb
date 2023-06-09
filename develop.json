@@ -1,3 +1,74 @@
 {
-  "hello": "world"
+  "version": {
+    "platform": {
+      "android": {
+        "inReview": "0.0.1",
+        "latest": "0.0.1",
+        "optional": "0.0.1",
+        "force": "0.0.1",
+        "url": "https://play.google.com/store/apps/details?id=com.teamcheers.app"
+      },
+      "ios": {
+        "inReview": "0.0.1",
+        "latest": "0.0.1",
+        "optional": "0.0.1",
+        "force": "0.0.1",
+        "url": "https://test.android.store.com"
+      }
+    },
+    "msg": {
+      "ko": {
+        "optional": {
+          "msg": "원활한 서비스를 이용하시려면,\n업데이트가 꼭 필요합니다.",
+          "subMsg": "업데이트 하시겠습니까?",
+          "rightButton": "확인",
+          "leftButton": "취소"
+        },
+        "force": {
+          "msg": "원활한 서비스를 이용하시려면,\n업데이트가 꼭 필요합니다.",
+          "subMsg": "업데이트 하시겠습니까?",
+          "rightButton": "확인"
+        }
+      },
+      "en": {
+        "optional": {
+          "msg": "To use the service,\nneed to  update.",
+          "subMsg": "Would you like to update?",
+          "rightButton": "OK",
+          "leftButton": "Cancel"
+        },
+        "force": {
+          "msg": "To use the service,\nneed to  update.",
+          "subMsg": "Would you like to update?",
+          "rightButton": "OK"
+        }
+      }
+    }
+  },
+  "abtest": {
+    "OPEN_GOOGLE_AD": {
+      "abOption": "A",
+      "from": {
+        "year": 2023,
+        "month": 6,
+        "day": 9,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "zoneId": "Asia/Seoul"
+      }
+    },
+    "IMAGE_EXPOSURE": {
+      "abOption": "A",
+      "from": {
+        "year": 2023,
+        "month": 6,
+        "day": 9,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "zoneId": "Asia/Seoul"
+      }
+    }
+  }
 }
