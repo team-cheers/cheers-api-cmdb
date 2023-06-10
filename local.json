@@ -7,7 +7,7 @@
     "storeUrls": {
       "android": "https://play.google.com/store/apps/details?id=com.teamcheers.app",
       "ios": "https://team-cheers.com"
-    }
+    },
     "msg": {
       "ko": {
         "msg": "원활한 서비스를 이용하시려면,\n업데이트가 꼭 필요합니다.",
