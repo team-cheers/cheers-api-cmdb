@@ -1,9 +1,9 @@
 {
   "version": {
     "inReview": "0.0.1",
-    "latest": "0.0.1",
+    "latest": "0.0.130",
     "optional": "0.0.1",
-    "force": "0.0.1",
+    "force": "0.0.130",
     "storeUrls": {
       "android": "https://play.google.com/store/apps/details?id=com.teamcheers.app",
       "ios": "https://team-cheers.com"
