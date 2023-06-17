@@ -25,7 +25,7 @@
   },
   "abtest": {
     "OPEN_GOOGLE_AD": {
-      "abOption": "A",
+      "abOption": "B",
       "minVersion": "0.0.0",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
       "dividedBy": "NONE",
