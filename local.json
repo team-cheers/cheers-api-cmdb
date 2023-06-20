@@ -28,7 +28,7 @@
       "abOption": "B",
       "minVersion": "0.0.0",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
-      "dividedBy": "NONE",
+      "dividedBy": "CUSTOM_ID",
       "overrideA": [],
       "overrideB": [],
       "overrideC": []
@@ -46,7 +46,7 @@
       "abOption": "B",
       "minVersion": "0.0.0",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
-      "dividedBy": "NONE",
+      "dividedBy": "PCID",
       "overrideA": [],
       "overrideB": [10],
       "overrideC": []
