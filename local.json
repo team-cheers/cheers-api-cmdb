@@ -43,7 +43,7 @@
       "overrideC": []
     },
     "CATEGORY_EXPOSURE": {
-      "abOption": "B",
+      "abOption": "A",
       "minVersion": "0.0.0",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
       "dividedBy": "PCID",
