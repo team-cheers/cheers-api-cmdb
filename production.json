@@ -5,7 +5,7 @@
     "optional": "0.0.1",
     "force": "0.0.130",
     "storeUrls": {
-      "android": "https://play.google.com/store/apps/details?id=com.teamcheers.app",
+      "android": "matket://details?id=com.teamcheers.app",
       "ios": "https://team-cheers.com"
     },
     "msg": {
@@ -35,6 +35,15 @@
     },
     "IMAGE_EXPOSURE": {
       "abOption": "B",
+      "minVersion": "0.0.0",
+      "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
+      "dividedBy": "NONE",
+      "overrideA": [],
+      "overrideB": [],
+      "overrideC": []
+    },
+    "CATEGORY_EXPOSURE": {
+      "abOption": "A",
       "minVersion": "0.0.0",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
       "dividedBy": "NONE",
