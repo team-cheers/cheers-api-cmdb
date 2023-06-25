@@ -23,7 +23,7 @@
       }
     }
   },
-  "cmdbLogging": true,
+  "cmdbLogging": false,
   "abtest": {
     "OPEN_GOOGLE_AD": {
       "abOption": "B",
