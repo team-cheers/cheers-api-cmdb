@@ -32,7 +32,7 @@
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
       "dividedBy": "NONE",
       "overrideA": [],
-      "overrideB": [],
+      "overrideB": [0],
       "overrideC": []
     },
     "IMAGE_EXPOSURE": {
