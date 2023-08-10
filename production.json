@@ -27,7 +27,7 @@
   "gatewayAdExposureRate": 1.0,
   "abtest": {
     "OPEN_GOOGLE_AD": {
-      "abOption": "A",
+      "abOption": "B",
       "minVersion": "0.0.221",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
       "dividedBy": "PCID",
