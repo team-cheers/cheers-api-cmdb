@@ -1,9 +1,9 @@
 {
   "version": {
-    "inReview": "0.0.1",
-    "latest": "0.0.130",
-    "optional": "0.0.1",
-    "force": "0.0.130",
+    "inReview": "1.0.248",
+    "latest": "1.0.248",
+    "optional": "1.0.248",
+    "force": "1.0.248",
     "storeUrls": {
       "android": "matket://details?id=com.teamcheers.app",
       "ios": "https://team-cheers.com"
