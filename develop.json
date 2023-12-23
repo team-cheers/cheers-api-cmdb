@@ -48,9 +48,9 @@
       "abOption": "B",
       "minVersion": "0.0.0",
       "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
-      "dividedBy": "PCID",
+      "dividedBy": "NONE",
       "overrideA": [],
-      "overrideB": [10],
+      "overrideB": [],
       "overrideC": []
     }
   }
