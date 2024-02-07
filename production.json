@@ -25,6 +25,7 @@
   },
   "cmdbLogging": false,
   "gatewayAdExposureRate": 1.0,
+  "pcidRequired": false,
   "abtest": {
     "OPEN_GOOGLE_AD": {
       "abOption": "B",
