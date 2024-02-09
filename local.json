@@ -26,6 +26,7 @@
   "cmdbLogging": false,
   "gatewayAdExposureRate": 1.0,
   "pcidRequired": true,
+  "pushSendChunkSize": 100,
   "abtest": {
     "OPEN_GOOGLE_AD": {
       "abOption": "B",
